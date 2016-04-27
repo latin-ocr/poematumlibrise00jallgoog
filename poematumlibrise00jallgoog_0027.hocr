@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./poematumlibrise00jallgoog_0027.png"; bbox 0 0 4084 6000; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 635 2483 1507 2684">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 626 2399 1558 2741">
+     <span class='ocr_line' id='line_1_1' title="bbox 635 2483 1507 2684; baseline -0.001 -1.01"><span class='ocrx_word' id='word_1_1' title='bbox 635 2483 1507 2684; x_wconf 65' lang='lat' dir='ltr'><strong>mamam</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 459 2946 1350 3078">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 459 2946 1350 3078">
+     <span class='ocr_line' id='line_1_2' title="bbox 459 2946 1350 3078; baseline 0 -29"><span class='ocrx_word' id='word_1_2' title='bbox 459 3006 462 3013; x_wconf 32' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_3' title='bbox 669 3075 672 3078; x_wconf 33' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 787 2946 950 3049; x_wconf 79' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_5' title='bbox 988 2946 1350 3071; x_wconf 76' lang='lat' dir='ltr'><strong>QUATTUoss.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 968 3300 1271 3353">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 968 3300 1271 3353">
+     <span class='ocr_line' id='line_1_3' title="bbox 968 3300 1271 3353; baseline -0.013 0"><span class='ocrx_word' id='word_1_6' title='bbox 968 3300 1171 3353; x_wconf 46' lang='lat' dir='ltr'><strong><em>-muv-</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1263 3304 1271 3316; x_wconf 84' lang='lat'><strong>·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2046 6000">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2046 6000">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2046 6000; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 2046 6000; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
